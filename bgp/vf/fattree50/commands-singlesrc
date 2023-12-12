@@ -1,0 +1,2 @@
+init-testrig networks/bgp/vf/fattree50
+get ai-reachability ingressNodeRegex="edge-3124", finalNodeRegex="edge-650", useAbstraction=True 

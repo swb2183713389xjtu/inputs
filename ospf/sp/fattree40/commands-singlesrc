@@ -1,0 +1,2 @@
+init-testrig networks/ospf/sp/fattree40
+get ai-reachability ingressNodeRegex="edge-1999", finalNodeRegex="edge-420", useAbstraction=True 
